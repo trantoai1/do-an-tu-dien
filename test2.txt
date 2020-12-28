@@ -1,0 +1,4 @@
+a n,v,adj, q, c, v, |qw|c
+abandon v bo, tu bo
+abc n,v,adj, qqw, cqv, qc, v, 
+qqqqq n,v,adj, qw, qcqc, qv, q, |qcqc|qvcq

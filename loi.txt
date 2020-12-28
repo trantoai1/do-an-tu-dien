@@ -1,0 +1,5 @@
+Lỗi 1:Không để đường dẫn tĩnh với file txt,ko check file có tồn tại
+Lỗi 2:Xem nghĩa xong enter thì tất cả biến thành màu xanh
+Lỗi 3:Từ cần thêm ko check số; nếu nhập số thì dis chương trình
+lỗi 4:sửa từ xong mà nội dung dài sẽ bị mất 1 dòng trên console
+
